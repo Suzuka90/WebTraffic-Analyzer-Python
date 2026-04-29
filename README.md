@@ -17,4 +17,4 @@
 - **Python 3.9** - Analysis engine
 
 ---
-**Portfolio Data Analyst | 2026**
+**© 2026 Milena** | **Private Access**
