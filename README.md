@@ -30,10 +30,12 @@ streamlit run app.py
 ## 📊 Risultati Esempio
 **Metriche Sito Reale (tuoi dati):**
 
-<div align="center">
-<img src="top_clicks.png" width="700" alt="Top Clicked Pages Analytics">
-<img src="turismo_ora.png" width="700" alt="Traffico per Ora Turismo">
-</div>
+<span>
+  <img src="top_clicks.png" width="400" alt="Top Clicked Pages Analytics">
+</span>
+<span>
+  <img src="https://raw.githubusercontent.com/Suzuka90/WebTraffic-Analyzer-Python/main/turismo_ora.png" width="400">
+</span>
 
 | Metrica       | Valore   |
 |---------------|----------|
