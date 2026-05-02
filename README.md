@@ -1,10 +1,15 @@
 # WebTraffic-Analyzer-Python 🚀
 
+<br>
+
 **Analisi traffico website con Python. Dashboard metriche visite, bounce rate, user journey.**
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-green)](https://pandas.pydata.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-orange)](https://streamlit.io)
+
+
+<br> <br>
 
 ## 📖 Descrizione
 Scraping log server/accessi Google Analytics → ETL → Dashboard interattivo.
@@ -12,13 +17,18 @@ Scraping log server/accessi Google Analytics → ETL → Dashboard interattivo.
 - Visualizzazioni: Trend tempo, heatmap referrer
 - Deploy: Streamlit/Netlify
 
-**Obiettivo CV:** Web analytics + data engineering per ruoli growth/data analyst.
+
+**Obiettivo CV:** Web analytics + data engineering per ruoli growth/data analyst. 
+
+<br>
 
 ## 🛠 Tech Stack
 - **Backend:** Python, Pandas, Requests/BeautifulSoup
 - **Visual:** Plotly, Streamlit, Matplotlib
 - **Dati:** Log server, GA4 API, CSV/JSON
 - **Deploy:** Netlify, GitHub Pages
+
+  <br>
 
 ## 🚀 Installazione & Demo
 ```bash
@@ -27,28 +37,40 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+<br>
+
 ## 📊 Risultati Esempio
 **Metriche Sito Reale (tuoi dati):**
 
 <span>
   <img src="top_clicks.png" width="400" alt="Top Clicked Pages Analytics">
-  <img src="turismo_ora.png" width="400" alt="Traffico per Ora">
+  <img src="trafficoPerOra.png" width="400" alt="Traffico per Ora">
 </span>
 
-| Metrica       | Valore   |
-|---------------|----------|
-| Visite Totali | 12,847  |
-| Bounce Rate   | 42.3%   |
-| Top Pagina    | /blog   |
-| Top Referrer  | Google  |
+<br> <br>
+
+<div align="center"> 
+  
+  | Metrica       | Valore   |
+  |---------------|----------|
+  | Visite Totali | 12,847  |
+  | Bounce Rate   | 42.3%   |
+  | Top Pagina    | /blog   |
+  | Top Referrer  | Google  |
+  
+</div>
+
+<br>
 
 ## 💡 Apprendimenti
 - Parsing log Apache/Nginx → Pandas DataFrame
 - GA4 API integration + UTM tracking
 - Prossimo: Real-time analytics con WebSocket
 
+  <br>
+
 ## 📄 Licenza
-MIT.
+MIT. <br>
 
 ---
 **© 2026 Milena** | **Private Access**
