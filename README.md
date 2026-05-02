@@ -1,6 +1,5 @@
 # WebTraffic-Analyzer-Python 🚀
 
-<br>
 
 **Analisi traffico website con Python. Dashboard metriche visite, bounce rate, user journey.**
 
@@ -9,7 +8,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-orange)](https://streamlit.io)
 
 
-<br> <br>
+<br> 
 
 ## 📖 Descrizione
 Scraping log server/accessi Google Analytics → ETL → Dashboard interattivo.
@@ -17,6 +16,7 @@ Scraping log server/accessi Google Analytics → ETL → Dashboard interattivo.
 - Visualizzazioni: Trend tempo, heatmap referrer
 - Deploy: Streamlit/Netlify
 
+<br>
 
 **Obiettivo CV:** Web analytics + data engineering per ruoli growth/data analyst. 
 
@@ -73,4 +73,4 @@ streamlit run app.py
 MIT. <br>
 
 ---
-**© 2026 Milena** | **Private Access**
+**© 2026 Suzuka90** | **Private Access**
