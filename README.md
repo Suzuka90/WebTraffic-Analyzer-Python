@@ -32,9 +32,7 @@ streamlit run app.py
 
 <span>
   <img src="top_clicks.png" width="400" alt="Top Clicked Pages Analytics">
-</span>
-<span>
-  <img src="https://raw.githubusercontent.com/Suzuka90/WebTraffic-Analyzer-Python/main/turismo_ora.png" width="400">
+  <img src="turismo_ora.png" width="400" alt="Traffico per Ora">
 </span>
 
 | Metrica       | Valore   |
